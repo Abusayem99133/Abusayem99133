@@ -103,10 +103,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <div align="center">
             <a href="(https://github.com/Abusayem99133)" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://avatars.githubusercontent.com/u/123319907?v=4" 
-                    align="center"
-                />
+              
             </a></div>
 <br />
 
