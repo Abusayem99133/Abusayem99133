@@ -7,7 +7,7 @@
 A passionate Junior frontend developer from Bangladesh, I have developed my skills in HTML,CSS,JavaScript,React,Tailwind CSS,Express js,MongoDB,Node js.Also ienergetic,enthusiastic,and always ready to learn new things.I like to update in my learni everydays. I am eager to leverage my skills and knowledge to make a meaningful contribution to the field of front-end development.</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator] 
+- 🔭 I’m currently working on [Github Profilinator] https://github.com/Abusayem99133
   
 
 - 🌱 I’m currently learning  javaScript,react.js  
