@@ -43,6 +43,11 @@ A passionate Junior frontend developer from Bangladesh, I have developed my skil
 
 <br/>  
 
+<h3 align="left">Languages and Tools:</h3>
+ 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abusayem99133&show_icons=true&locale=en&layout=compact" alt="abusayem99133" /></p>
+<br/>
 
 ## Connect with me  
 <div align="center">
@@ -63,7 +68,8 @@ A passionate Junior frontend developer from Bangladesh, I have developed my skil
 
 <br/>  
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abusayem99133&" alt="abusayem99133" /></p>
+<br/>
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Abusayem99133&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
@@ -95,11 +101,7 @@ If things goes well, this section should automatically be replaced by a list of 
 
 
 
-<h3 align="left">Languages and Tools:</h3>
- 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abusayem99133&show_icons=true&locale=en&layout=compact" alt="abusayem99133" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abusayem99133&show_icons=true&locale=en" alt="abusayem99133" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abusayem99133&" alt="abusayem99133" /></p>
+
