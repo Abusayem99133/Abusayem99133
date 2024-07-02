@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/123319907?v=4" align="center" style="width: 50%" />
 </div> 
-### <div align="center">Hi 👋, I'm Md.Rokonuzzaman Sayem
+ <div align="center">Hi 👋, I'm Md.Rokonuzzaman Sayem
 A passionate Junior frontend developer from Bangladesh, I have developed my skills in HTML,CSS,JavaScript,React,Tailwind CSS,Express js,MongoDB,Node js.Also ienergetic,enthusiastic,and always ready to learning new things.I like to update in my learni everydays. I am eager to leverage my skills and knowledge to make a meaningful contribution to the field of front-end development.</div>  
 
 - 🔭 I’m currently working on [Github Profilinator] https://github.com/Abusayem99133
@@ -14,7 +14,22 @@ A passionate Junior frontend developer from Bangladesh, I have developed my skil
   
 
 - ⚡ Fun fact: I use tabs over spaces
-- <br/>  
+- <br/>
+  ## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+  ### Frontend  
+<div align="center">  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+</div>
+
+</td><td valign="top" width="33%">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abusayem99133&label=Profile%20views&color=0e75b6&style=flat" alt="abusayem99133" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
