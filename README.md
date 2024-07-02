@@ -42,7 +42,7 @@
 
 <br/>  
 
-## Connect with me  
+## Connect me  
 <div align="center">
 <a href="https://www.instagram.com/md.rokonuzzamansayem/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
@@ -59,7 +59,7 @@
 </div>  
 
 <br/>  
-
+## Streck-Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abusayem99133&" alt="abusayem99133" /></p>
 <br/>
 ## Github Stats  
