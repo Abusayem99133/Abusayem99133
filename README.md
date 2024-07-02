@@ -35,13 +35,13 @@
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 </div>
 
-</td></tr></table>
+</td><td valign="top" width="50%">
 
 <h3 align="left">Languages and Tools:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abusayem99133&show_icons=true&locale=en&layout=compact" alt="abusayem99133" /></p>
 
 <br/>  
-
+</td><td valign="top" width="50%">
 ## Connect with me  
 <div align="center">
 <a href="https://www.instagram.com/md.rokonuzzamansayem/" target="_blank">
