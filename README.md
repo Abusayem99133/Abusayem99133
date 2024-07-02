@@ -41,8 +41,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abusayem99133&show_icons=true&locale=en&layout=compact" alt="abusayem99133" /></p>
 </td></tr></table>
 <br/>  
-</td></tr></table>
 ## Connect me  
+</td><td valign="top" width="50%">
 <div align="center">
 <a href="https://www.instagram.com/md.rokonuzzamansayem/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
@@ -57,10 +57,12 @@
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>  
 </div>  
-
 </td></tr></table>
+
 ## Streck-Stats
+</td><td valign="top" width="50%">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abusayem99133&" alt="abusayem99133" /></p>
+</td></tr></table>
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Abusayem99133&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
