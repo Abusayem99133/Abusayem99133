@@ -60,7 +60,7 @@
 
 ## Streck-Stats
 </td><td valign="top" width="50%">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abusayem99133&" alt="abusayem99133" /></p>
+<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abusayem99133&" alt="abusayem99133" /></div>
 </td></tr></table>
 
 ## Github Stats  
