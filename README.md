@@ -40,13 +40,15 @@ A passionate Junior frontend developer from Bangladesh, I have developed my skil
 
 </td><td valign="top" width="33%">
 </td></tr></table>  
-
-<br/>  
-
 <h3 align="left">Languages and Tools:</h3>
  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abusayem99133&show_icons=true&locale=en&layout=compact" alt="abusayem99133" /></p>
+</td><td valign="top" width="33%">
+</td></tr></table> 
+<br/>  
+
+
 
 
 ## Connect with me  
