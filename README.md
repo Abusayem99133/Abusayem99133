@@ -70,7 +70,6 @@
 
 <br/>  
 
-![abusayem99133's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abusayem99133&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
 If things go well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
