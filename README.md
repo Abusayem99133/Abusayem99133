@@ -60,7 +60,7 @@
 </tr></td></table>
 <br/>
 ## Streck-Stats
-</td><td valign="top" width="50%">
+</table></td><td valign="top" width="50%">
 <div align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=abusayem99133&" alt="abusayem99133" /></div>
 </td></tr></table>
 
