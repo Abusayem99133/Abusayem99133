@@ -35,10 +35,10 @@
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
 </div>
 
+</td></tr></table>
+
 <h3 align="left">Languages and Tools:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abusayem99133&show_icons=true&locale=en&layout=compact" alt="abusayem99133" /></p>
-
-</td></tr></table>
 
 <br/>  
 
@@ -83,4 +83,3 @@ If things go well, this section should automatically be replaced by a list of yo
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abusayem99133&label=Profile%20views&color=0e75b6&style=flat" alt="abusayem99133" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
