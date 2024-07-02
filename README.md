@@ -38,14 +38,14 @@ A passionate Junior frontend developer from Bangladesh, I have developed my skil
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-</td></tr></table>  
 <h3 align="left">Languages and Tools:</h3>
  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abusayem99133&show_icons=true&locale=en&layout=compact" alt="abusayem99133" /></p>
 </td><td valign="top" width="33%">
-</td></tr></table> 
+</td></tr></table>  
+
+ 
 <br/>  
 
 
