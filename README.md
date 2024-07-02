@@ -73,11 +73,7 @@
 If things go well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
 <!-- BLOG-POST-LIST:END -->  
 
-<br/>  
 
-<div align="center">
-<a href="https://github.com/Abusayem99133" target="_blank" style="display: inline-block;">Visit My GitHub</a>
-</div>
 
 <br />
 
