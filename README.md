@@ -38,15 +38,15 @@
 
 </td></tr></table>
 
-## Languages and Tools
+
 <div align="center">  
 <h3 align="left">Languages and Tools:</h3>
  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abusayem99133&show_icons=true&locale=en&layout=compact" alt="abusayem99133" /></p>
+</div>
 </td><td valign="top" width="33%">
 </td></tr></table>    
-</div>
 
 <br/>  
 
