@@ -58,10 +58,10 @@
 </a>  
 </div>  
 
-<br/>  
+
 ## Streck-Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abusayem99133&" alt="abusayem99133" /></p>
-<br/>
+
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Abusayem99133&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
