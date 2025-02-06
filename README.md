@@ -57,7 +57,7 @@
 
 </table></td><td valign="top" width="50%">
 
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abusayem99133&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 </div>
@@ -65,21 +65,21 @@
 
 ## Github Stats
 </table></td><td valign="top" width="50%">
-<div>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abusayem99133&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   </div>
   
 
 </tr></td></table>
 
-## Streck-Stats
-<div>
+## My-Stats
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=abusayem99133&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
  
 </div>
 
-<br/>  
-
+<br clear="both"/>  
+<div align="center"><img src="https://raw.githubusercontent.com/abusayem99133/abusayem99133/output/snake.svg" alt="Snake animation" /></div>
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
 If things go well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
@@ -89,9 +89,9 @@ If things go well, this section should automatically be replaced by a list of yo
 
 <br />
 
-<p > <img src="https://komarev.com/ghpvc/?username=abusayem99133&label=Profile%20views&color=0e75b6&style=flat" alt="abusayem99133" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abusayem99133&label=Profile%20views&color=0e75b6&style=flat" alt="abusayem99133" /> </p>
 
-<p"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<br clear="both">
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<img src="https://raw.githubusercontent.com/abusayem99133/abusayem99133/output/snake.svg" alt="Snake animation" />
+
+
