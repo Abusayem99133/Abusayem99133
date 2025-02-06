@@ -58,7 +58,7 @@
 </table></td><td valign="top" width="50%">
 <div align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=abusayem99133&show_icons=true&locale=en&layout=compact" alt="abusayem99133" /></div>
 <div align="center">
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abusayem99133&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 </div>
 </tr></td></table>
@@ -66,7 +66,7 @@
 ## Streck-Stats
 </table></td><td valign="top" width="50%">
 <div align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=abusayem99133&" alt="abusayem99133" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abusayem99133&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /></div>
+  </div>
   
 
 </tr></td></table>
