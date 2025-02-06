@@ -59,13 +59,16 @@
 <div align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=abusayem99133&show_icons=true&locale=en&layout=compact" alt="abusayem99133" /></div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
 </div>
 </tr></td></table>
 
 ## Streck-Stats
 </table></td><td valign="top" width="50%">
-<div align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=abusayem99133&" alt="abusayem99133" /></div>
+<div align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=abusayem99133&" alt="abusayem99133" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /></div>
+  
+
 </tr></td></table>
 
 ## Github Stats  
@@ -89,4 +92,4 @@ If things go well, this section should automatically be replaced by a list of yo
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/abusayem99133/abusayem99133/output/snake.svg" alt="Snake animation" />
