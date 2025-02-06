@@ -8,7 +8,7 @@
   A passionate Junior frontend web developer from Bangladesh. I have developed my skills in HTML, CSS, JavaScript, React, Tailwind CSS, Express.js, MongoDB, and Node.js. I am energetic, enthusiastic, and always ready to learn new things. I like to update my learning every day. I am eager to leverage my skills and knowledge to make a meaningful contribution to the field of front-end development.
 </div>  
 
-- 🔭 I’m currently working on [Stelleronix](https://www.linkedin.com/company/stelleronix/)
+- 🔭 I’m currently working on [Github](https://github.com/Abusayem99133)
 - 🌱 I’m currently learning JavaScript, React.js  
 - ❓ Ask me about anything related to Frontend and related technologies  
 - ⚡ Fun fact: I use tabs over spaces
