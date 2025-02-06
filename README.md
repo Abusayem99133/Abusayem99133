@@ -56,25 +56,25 @@
 ## Languages Used
 
 </table></td><td valign="top" width="50%">
-<div align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=abusayem99133&show_icons=true&locale=en&layout=compact" alt="abusayem99133" /></div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abusayem99133&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 </div>
 </tr></td></table>
 
-## Streck-Stats
+## Github Stats
 </table></td><td valign="top" width="50%">
-<div align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=abusayem99133&" alt="abusayem99133" />
+ <img src="https://github-readme-stats.vercel.app/api?username=abusayem99133&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   </div>
   
 
 </tr></td></table>
 
-## Github Stats  
+## Streck-Stats
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=abusayem99133&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=abusayem99133&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+ 
 </div>
 
 <br/>  
