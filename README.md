@@ -79,7 +79,6 @@
 </div>
 
 <br clear="both"/>  
-<div align="center"><img src="https://raw.githubusercontent.com/abusayem99133/abusayem99133/output/snake.svg" alt="Snake animation" /></div>
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
 If things go well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
